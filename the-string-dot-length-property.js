@@ -25,6 +25,11 @@ let lengthTwo;   // Length of stringTwo
 let lengthThree; // Length of stringThree
 
 // Your code here
-
+lengthOne = stringOne.length;
+lengthTwo = stringTwo.length;
+lengthThree = stringThree.length;
+console.log(lengthOne);
+console.log(lengthTwo);
+console.log(lengthThree);
 
 
